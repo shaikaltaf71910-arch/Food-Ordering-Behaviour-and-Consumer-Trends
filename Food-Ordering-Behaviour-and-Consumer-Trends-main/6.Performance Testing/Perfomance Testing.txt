@@ -1,0 +1,44 @@
+Performance Testing
+
+Project Name
+Food Ordering Behaviour and Consumer Trends Dashboard
+
+Objective
+Performance testing was conducted to ensure that the Tableau dashboard operates efficiently, accurately, and responds quickly to user interactions. The testing verifies that all visualizations, filters, KPIs, and dashboard components function as expected.
+
+Test Cases
+Test Case 1: Dashboard Loading
+**Objective:** Verify that the dashboard loads successfully.
+**Expected Result:** Dashboard opens without errors and displays all visualizations.
+**Status:** Passed
+
+Test Case 2: KPI Validation
+**Objective:** Verify that all KPI values are calculated correctly.
+**Expected Result:** Total Orders, Total Order Value, Delivery Fee, and Average Rating display accurate values.
+**Status:** Passed
+
+Test Case 3: Filter Functionality
+**Objective:** Verify that dashboard filters work correctly.
+**Expected Result:** Selecting a filter updates all related charts and KPIs dynamically.
+**Status:** Passed
+
+Test Case 4: Chart Accuracy
+**Objective:** Verify that all charts display correct information.
+**Expected Result:** Bar charts, pie charts, and line charts accurately represent the dataset.
+**Status:** Passed
+
+Test Case 5: Story Navigation
+*Objective:** Verify navigation between Tableau Story points.
+**Expected Result:** Users can move between story points smoothly without errors.
+**Status:** Passed
+
+Performance Results:
+* Dashboard loads successfully.
+* KPIs are calculated accurately.
+* Interactive filters respond correctly.
+* Visualizations update without noticeable delay.
+* Dashboard layout remains organized across different screen sizes.
+* Story presentation functions correctly.
+
+Conclusion:
+The performance testing confirms that the Food Ordering Behaviour and Consumer Trends Dashboard is reliable, accurate, and user-friendly. All major functionalities perform as expected, providing a smooth and interactive experience for users.

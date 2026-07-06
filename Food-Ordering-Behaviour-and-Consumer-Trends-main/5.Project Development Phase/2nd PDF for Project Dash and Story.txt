@@ -1,0 +1,136 @@
+Project Development Phase – 2nd PDF
+
+Dashboard and Story
+
+Dashboard Overview
+The **Food Ordering Behaviour and Consumer Trends Dashboard** is an interactive Tableau dashboard designed to provide meaningful insights into customer ordering behaviour, revenue performance, delivery efficiency, and customer satisfaction.
+The dashboard presents key business metrics and visualizations in a simple and interactive format, enabling users to monitor business performance and identify trends that support strategic decision-making.
+
+Dashboard Objectives
+The dashboard aims to:
+* Monitor overall business performance.
+* Analyze customer ordering behaviour.
+* Identify popular meal categories.
+* Evaluate revenue generation.
+* Measure customer satisfaction.
+* Compare payment method preferences.
+* Support data-driven business decisions.
+
+
+Dashboard Components:
+KPI Cards
+The dashboard includes four key performance indicators (KPIs):
+
+Total Orders
+Displays the total number of food orders placed during the selected period. This KPI provides a quick overview of customer demand.
+
+Total Order Value
+Shows the total revenue generated from customer orders. It helps evaluate business growth and sales performance.
+
+Delivery Fee
+Represents the total delivery charges collected. This KPI helps analyze delivery-related income.
+
+Average Rating
+Displays the average customer rating, reflecting customer satisfaction with food quality and delivery service.
+
+
+Dashboard Visualizations
+
+Meal Type Analysis
+**Chart Type:** Bar Chart
+This visualization compares different meal categories based on the number of orders. It helps identify the most popular meal types and customer preferences.
+**Business Insight:**
+Restaurants can focus on highly demanded meal categories to increase customer satisfaction and revenue.
+
+
+Payment Method Analysis
+**Chart Type:** Pie Chart
+This chart shows the distribution of customer payment methods, such as Cash, Credit/Debit Card, and Online Payments.
+
+**Business Insight:**
+Understanding payment preferences helps businesses improve payment convenience and customer experience.
+
+Order Trend Analysis
+**Chart Type:** Line Chart
+This visualization illustrates changes in the number of orders over time, allowing businesses to identify peak ordering periods and seasonal trends.
+
+**Business Insight:**
+Businesses can use these trends for demand forecasting, inventory planning, and staff scheduling.
+
+Customer Rating Analysis
+**Chart Type:** Bar Chart
+
+This chart displays the distribution of customer ratings and helps evaluate overall customer satisfaction.
+
+**Business Insight:**
+Lower ratings indicate areas where improvements in food quality or delivery services may be required.
+
+
+Dashboard Filters
+Interactive filters allow users to analyze data dynamically.
+
+Examples include:
+* Meal Type
+* Payment Method
+* Customer Category
+* Rating
+* Date (if applicable)
+
+These filters enable users to customize the dashboard based on their analytical requirements.
+
+
+Interactivity Features
+The dashboard includes:
+* Interactive filters
+* Highlight actions
+* Tooltips
+* Dynamic labels
+* Responsive layout
+* Dashboard containers for organized presentation
+
+These features improve usability and make the dashboard easier to explore.
+
+
+
+Tableau Story
+The Tableau Story presents the dashboard insights in a logical sequence, helping users understand the complete business analysis.
+
+Story Point 1 – Business Overview
+Introduces the project and presents the overall business performance using KPIs.
+
+Story Point 2 – Customer Ordering Behaviour
+Explains customer ordering patterns and highlights the most popular meal categories.
+
+Story Point 3 – Revenue Performance
+Analyzes total order value and delivery fee to evaluate business profitability.
+
+Story Point 4 – Payment Preferences
+Illustrates customer payment behaviour and identifies the most commonly used payment methods.
+
+Story Point 5 – Customer Satisfaction
+Analyzes customer ratings to measure service quality and identify opportunities for improvement.
+
+Story Point 6 – Business Insights
+Summarizes the key findings from the dashboard and provides recommendations for improving customer satisfaction, operational efficiency, and overall business performance.
+
+
+Key Findings
+* Customer ordering patterns can be clearly identified using interactive visualizations.
+* Popular meal categories contribute significantly to total orders.
+* Revenue trends help evaluate business performance over time.
+* Customer ratings provide valuable feedback for service improvement.
+* Payment method analysis supports better customer convenience.
+* Interactive filters enable detailed and flexible analysis.
+
+
+Business Benefits
+The dashboard offers several advantages:
+* Supports informed decision-making.
+* Improves customer satisfaction.
+* Identifies sales opportunities.
+* Monitors operational performance.
+* Simplifies business reporting.
+* Enhances understanding of customer behaviour.
+
+Conclusion
+The Food Ordering Behaviour and Consumer Trends Dashboard successfully transforms raw food ordering data into interactive and meaningful visual insights. Through KPI cards, charts, filters, and a Tableau Story, the dashboard provides a comprehensive view of business performance and customer behaviour. It enables restaurant owners and managers to make informed decisions, improve operational efficiency, and enhance the overall customer experience through data-driven analytics.

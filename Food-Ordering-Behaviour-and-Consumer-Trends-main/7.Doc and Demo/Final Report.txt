@@ -1,0 +1,53 @@
+Final Report
+Project Title:
+Food Ordering Behaviour and Consumer Trends Dashboard
+
+Abstract:
+The Food Ordering Behaviour and Consumer Trends Dashboard is an interactive business intelligence solution developed using Tableau. The project analyzes customer ordering behaviour, revenue trends, delivery performance, payment preferences, and customer satisfaction using a food ordering dataset. Through interactive dashboards and stories, the project converts raw data into meaningful visual insights that support better business decisions.
+
+Objectives:
+* Analyze customer ordering behaviour.
+* Monitor business performance using KPIs.
+* Evaluate customer satisfaction through ratings.
+* Study meal type preferences.
+* Analyze payment methods.
+* Support informed decision-making using interactive dashboards.
+
+Methodology:
+1. Data Collection
+2. Data Cleaning and Preparation
+3. KPI Development
+4. Dashboard Design
+5. Story Creation
+6. Performance Testing
+7. Documentation
+
+Tools Used:
+* Tableau Desktop
+* Microsoft Excel
+* Windows Operating System
+
+Dashboard Features:
+* Total Orders KPI
+* Total Order Value KPI
+* Delivery Fee KPI
+* Average Rating KPI
+* Bar Charts
+* Pie Charts
+* Line Charts
+* Interactive Filters
+* Tableau Story
+
+Results:
+The dashboard successfully identifies customer ordering patterns, revenue performance, payment preferences, and customer satisfaction. Interactive visualizations enable users to explore business data effectively and make informed decisions.
+
+Future Enhancements:
+* Real-time data integration.
+* Predictive analytics using machine learning.
+* Mobile-friendly dashboard.
+* Advanced customer segmentation.
+* Personalized business recommendations.
+* Integration with cloud databases.
+
+Conclusion:
+The Food Ordering Behaviour and Consumer Trends Dashboard provides an efficient and interactive platform for analyzing food ordering data. The dashboard simplifies complex information through visual analytics, helping businesses improve operational efficiency, customer satisfaction, and overall performance. The project demonstrates how Tableau can be used to transform raw data into actionable business insights.

@@ -1,0 +1,21 @@
+Solution Requirement
+
+Functional Requirements:
+* Import the food ordering dataset into Tableau.
+* Clean and prepare the dataset for analysis.
+* Generate business KPIs such as Total Orders, Revenue, Delivery Fee, and Average Rating.
+* Create interactive charts and visualizations.
+* Enable filtering based on meal type, payment method, and customer preferences.
+* Build an interactive dashboard.
+* Create a Tableau Story explaining business insights.
+
+Non-Functional Requirements:
+* User-friendly interface.
+* Fast dashboard performance.
+* Accurate data visualization.
+* Interactive filtering capability.
+* Easy maintenance and future updates.
+* High reliability and consistency.
+
+Expected Outcome:
+The proposed solution provides a visual representation of customer ordering behaviour, helping restaurant owners and business managers identify trends, monitor performance, and make informed business decisions.

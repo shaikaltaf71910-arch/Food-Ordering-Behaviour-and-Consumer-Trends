@@ -1,0 +1,26 @@
+Proposed Solution
+
+The proposed solution is to build an interactive Tableau dashboard that analyzes food ordering behaviour and consumer trends using historical order data.
+
+The dashboard provides visual insights into:
+* Total Orders
+* Total Revenue
+* Delivery Fee
+* Average Customer Rating
+* Meal Type Distribution
+* Payment Method Preferences
+* Order Trends Over Time
+* Customer Behaviour Analysis
+
+Interactive filters allow users to explore the data based on different categories and customer segments.
+
+A Tableau Story is included to present the findings step by step, helping users understand key business insights and make informed decisions.
+
+Expected Outcome
+
+The solution enables businesses to:
+* Understand customer ordering patterns.
+* Improve customer satisfaction.
+* Increase operational efficiency.
+* Identify opportunities to improve sales and revenue.
+* Support strategic business planning through visual analytics.

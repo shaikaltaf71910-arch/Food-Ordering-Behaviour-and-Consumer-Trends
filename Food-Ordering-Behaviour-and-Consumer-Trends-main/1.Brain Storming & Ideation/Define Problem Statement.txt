@@ -1,0 +1,17 @@
+Title: Problem Statement
+
+Food delivery businesses receive a large amount of customer ordering data every day. However, without proper analysis, it is difficult to understand customer preferences, ordering behavior, revenue trends, and service performance.
+
+The organization needs a visual analytics solution that converts raw data into meaningful insights.
+
+The project aims to develop an interactive Tableau dashboard that allows users to:
+
+• Monitor total orders.
+• Analyze total revenue.
+• Track average customer ratings.
+• Compare meal type preferences.
+• Analyze payment methods.
+• Understand customer ordering patterns.
+• Identify business improvement opportunities.
+
+The solution helps decision-makers improve operational efficiency and customer satisfaction through data visualization.

@@ -1,0 +1,51 @@
+Solution Architecture
+
+Step 1: Data Collection
+* Collect food ordering data from the provided dataset.
+* Store customer, order, payment, delivery, and rating information.
+
+↓
+
+Step 2: Data Preparation
+* Import the dataset into Microsoft Excel and Tableau.
+* Clean missing values and remove duplicate records.
+* Format fields and prepare data for analysis.
+
+↓
+
+Step 3: Data Analysis
+* Calculate KPIs:
+  * Total Orders
+  * Total Revenue
+  * Delivery Fee
+  * Average Rating
+* Analyze ordering behaviour.
+* Analyze payment methods.
+* Analyze meal type preferences.
+
+↓
+
+Step 4: Dashboard Development
+Create interactive Tableau dashboards using:
+* KPI Cards
+* Bar Charts
+* Pie Charts
+* Line Charts
+* Filters
+* Legends
+* Dashboard Containers
+
+↓
+
+Step 5: Story Creation
+Develop a Tableau Story that explains:
+* Business Overview
+* Customer Behaviour
+* Revenue Trends
+* Meal Preferences
+* Key Business Insights
+
+↓
+
+Step 6: Output
+The final output is an interactive Tableau Dashboard and Story that enables users to analyze customer behaviour, monitor business performance, and make data-driven decisions.

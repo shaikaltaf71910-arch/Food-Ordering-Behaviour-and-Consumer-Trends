@@ -1,0 +1,18 @@
+Problem Solution Fit
+
+Problem:
+Food delivery businesses generate large volumes of customer ordering data every day. Without proper analysis, it becomes difficult to identify customer preferences, ordering trends, revenue patterns, and service performance. This lack of visibility limits the ability to make informed business decisions and improve customer satisfaction.
+
+Proposed Solution:
+Develop an interactive Tableau dashboard that transforms raw food ordering data into meaningful visual insights. The dashboard includes KPIs, charts, filters, and a Tableau Story to analyze customer behaviour, ordering trends, payment preferences, and overall business performance.
+
+Benefits:
+* Provides a clear overview of business performance.
+* Identifies popular meal categories and customer preferences.
+* Tracks revenue and order growth.
+* Measures customer satisfaction through ratings.
+* Supports data-driven decision-making.
+* Enables interactive exploration of business data.
+
+Value to Business:
+The dashboard helps restaurant owners and managers monitor key performance indicators, improve operational efficiency, optimize marketing strategies, and enhance the customer experience.

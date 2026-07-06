@@ -1,0 +1,25 @@
+Customer Journey Map
+
+Project Name:
+Food Ordering Behaviour and Consumer Trends Dashboard
+
+Stage 1: Discover
+The customer opens the food ordering application or website and explores available restaurants, cuisines, and meal categories. Attractive offers, ratings, and recommendations influence the customer's initial interest.
+
+Stage 2: Browse
+The customer searches for preferred food items, compares prices, checks ratings and reviews, and explores menu options before making a decision.
+
+Stage 3: Order Placement
+The customer selects food items, adds them to the cart, chooses a delivery address, applies discounts if available, and completes the payment using their preferred payment method.
+
+Stage 4: Order Processing
+The restaurant receives the order, prepares the food, and hands it over to the delivery partner. The customer tracks the order status in real time.
+
+Stage 5: Delivery
+The delivery partner delivers the order to the customer's location within the estimated delivery time. Delivery performance significantly affects customer satisfaction.
+
+Stage 6: Feedback
+After receiving the order, the customer provides ratings and reviews based on food quality, delivery experience, and overall satisfaction.
+
+Business Insight
+Analyzing each stage of the customer journey helps businesses identify delays, improve customer experience, optimize delivery operations, and increase customer retention.

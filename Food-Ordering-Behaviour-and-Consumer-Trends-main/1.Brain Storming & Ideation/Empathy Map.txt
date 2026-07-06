@@ -1,0 +1,39 @@
+Title: Empathy Map
+
+User:
+Restaurant Owners, Business Managers, Marketing Teams
+
+SAYS
+• Which meals are ordered the most?
+• How satisfied are customers?
+• Which payment method is preferred?
+• How can we increase sales?
+
+THINKS
+• We need better customer insights.
+• We should improve delivery performance.
+• We need to attract more repeat customers.
+• Revenue should continue growing.
+
+DOES
+• Monitors daily business performance.
+• Reviews customer ratings.
+• Tracks order trends.
+• Plans marketing campaigns.
+
+FEELS
+• Wants accurate business reports.
+• Needs quick decision-making.
+• Wants to improve customer experience.
+• Looks for opportunities to increase profit.
+
+Pain Points
+• Large amounts of unorganized data.
+• Difficulty identifying customer trends.
+• Limited visibility into business performance.
+
+Goals
+• Increase customer satisfaction.
+• Improve revenue.
+• Optimize business operations.
+• Make data-driven decisions using Tableau dashboards.

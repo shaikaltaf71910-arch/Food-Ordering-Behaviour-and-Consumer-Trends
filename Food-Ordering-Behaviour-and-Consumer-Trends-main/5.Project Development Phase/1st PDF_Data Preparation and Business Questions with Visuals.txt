@@ -1,0 +1,109 @@
+Project Development Phase – 1st PDF
+
+Data Preparation and Business Questions with Visuals
+
+Project Overview
+
+The Food Ordering Behaviour and Consumer Trends Dashboard was developed to analyze customer ordering patterns, revenue generation, payment preferences, delivery performance, and customer satisfaction. The project uses Tableau to transform raw data into interactive visualizations that support business decision-making.
+
+Data Preparation
+Before creating the dashboard, the dataset was cleaned and prepared to ensure accurate analysis.
+
+Data Preparation Steps
+* Imported the food ordering dataset into Tableau.
+* Verified data types for all fields.
+* Removed duplicate records.
+* Handled missing or null values.
+* Standardized text values for consistency.
+* Checked numerical fields for accuracy.
+* Created calculated fields for KPIs.
+* Organized dimensions and measures.
+* Validated data before visualization.
+These steps improved the quality and reliability of the dashboard.
+
+Key Performance Indicators (KPIs)
+The dashboard includes the following KPIs:
+
+Total Orders
+Displays the total number of food orders placed during the selected period.
+
+Total Order Value
+Represents the total revenue generated from all customer orders.
+
+Delivery Fee
+Shows the total delivery charges collected from customers.
+
+Average Rating
+Displays the average customer satisfaction rating based on order feedback.
+
+These KPIs provide a quick overview of business performance.
+
+
+Business Questions
+The dashboard answers several important business questions.
+
+Business Question 1
+How many total food orders were placed?
+**Visualization:** KPI Card
+**Insight:** Helps monitor overall business activity and demand.
+
+Business Question 2
+What is the total revenue generated?
+**Visualization:** KPI Card
+**Insight:** Measures overall sales performance.
+
+Business Question 3
+What is the average customer rating?
+**Visualization:** KPI Card
+**Insight:** Indicates customer satisfaction with food quality and delivery service
+
+Business Question 4
+Which meal type is ordered the most?
+**Visualization:** Bar Chart
+**Insight:** Identifies the most popular meal categories and customer preferences.
+
+Business Question 5
+Which payment method is preferred by customers?
+**Visualization:** Pie Chart
+**Insight:** Helps understand customer payment behaviour and supports payment strategy decisions.
+
+Business Question 6
+How do orders change over time?
+**Visualization:** Line Chart
+**Insight:** Reveals ordering trends, seasonal patterns, and peak demand periods.
+
+Business Question 7
+How are customer ratings distributed?
+**Visualization:** Histogram or Bar Chart
+**Insight:** Evaluates customer satisfaction levels and identifies areas for service improvement.
+
+Business Question 8
+What are the ordering patterns across different customer groups?
+**Visualization:** Interactive Dashboard Filters
+**Insight:** Enables comparison of customer behaviour across multiple categories.
+
+
+Dashboard Features
+
+The dashboard includes:
+* Interactive filters
+* KPI cards
+* Bar charts
+* Pie charts
+* Line charts
+* Tooltips
+* Legends
+* Dynamic highlighting
+
+These features allow users to explore the data efficiently.
+
+Benefits:
+* Identifies customer preferences.
+* Tracks business performance.
+* Supports revenue analysis.
+* Improves customer satisfaction.
+* Enables data-driven decision-making.
+* Provides interactive business insights.
+
+Conclusion:
+The dashboard converts raw food ordering data into meaningful visual information. Through proper data preparation and interactive visualizations, businesses can better understand customer behaviour, monitor performance, and make informed decisions to improve operational efficiency and customer experience.

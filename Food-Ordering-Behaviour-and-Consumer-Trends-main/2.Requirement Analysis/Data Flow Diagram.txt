@@ -1,0 +1,41 @@
+Data Flow Diagram
+
+Input
+* Food ordering dataset
+* Customer information
+* Order details
+* Payment details
+* Delivery information
+* Customer ratings
+
+↓
+Data Processing
+
+* Data cleaning
+* Handling missing values
+* Data transformation
+* KPI calculations
+* Aggregation of orders and revenue
+* Trend analysis
+
+↓
+
+Tableau Dashboard
+* Total Orders KPI
+* Total Revenue KPI
+* Average Customer Rating
+* Meal Type Analysis
+* Payment Method Analysis
+* Ordering Trends
+* Customer Behaviour Analysis
+* Interactive Filters
+
+↓
+
+Output
+* Interactive Dashboard
+* Tableau Story
+* Business Insights
+* Customer Behaviour Analysis
+* Revenue Analysis
+* Decision Support Reports

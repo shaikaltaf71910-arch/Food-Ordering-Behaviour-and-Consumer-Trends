@@ -1,0 +1,93 @@
+Project Planning
+
+Project Name:
+Food Ordering Behaviour and Consumer Trends Dashboard
+
+Project Objective:
+To develop an interactive Tableau dashboard that analyzes food ordering behaviour, customer preferences, revenue trends, delivery performance, and customer satisfaction. The project aims to transform raw data into meaningful visual insights that support better business decisions.
+
+Project Scope
+The project focuses on:
+* Collecting and preparing the food ordering dataset.
+* Cleaning and transforming data for analysis.
+* Creating key performance indicators (KPIs).
+* Designing interactive dashboards with charts and filters.
+* Developing a Tableau Story to present business insights.
+* Generating reports that support decision-making.
+
+Project Schedule
+Phase 1: Planning
+* Define project objectives.
+* Identify stakeholders.
+* Gather project requirements.
+* Prepare the project plan.
+
+Phase 2: Data Preparation
+* Import the dataset.
+* Clean and preprocess the data.
+* Validate data quality.
+* Organize fields for analysis.
+
+Phase 3: Dashboard Development
+* Design KPI cards.
+* Create charts and graphs.
+* Add filters and interactive features.
+* Arrange dashboard layout.
+
+Phase 4: Story Development
+* Build a Tableau Story.
+* Present business questions.
+* Highlight key insights.
+* Summarize findings.
+
+Phase 5: Testing
+* Verify dashboard accuracy.
+* Test filters and interactions.
+* Validate calculated fields.
+* Improve dashboard performance.
+
+Phase 6: Documentation and Submission
+* Prepare the final report.
+* Capture dashboard screenshots.
+* Record the demonstration.
+* Submit the complete project.
+
+Resources Required
+Software
+* Tableau Desktop
+* Microsoft Excel
+* PDF Reader
+
+Hardware
+* Windows 10/11 Computer
+* Minimum 4 GB RAM
+* Intel Core i3 Processor or above
+
+Deliverables
+* Cleaned Dataset
+* Tableau Workbook
+* Interactive Dashboard
+* Tableau Story
+* Project Documentation
+* Final Report
+* Project Demonstration
+
+Expected Outcomes
+* Identify customer ordering patterns.
+* Analyze revenue and order trends.
+* Evaluate customer satisfaction through ratings.
+* Compare meal preferences and payment methods.
+* Provide interactive visual reports for business analysis.
+* Support informed business decisions using data visualization.
+
+Risk Management
+
+| Risk                         | Mitigation Strategy                                       |
+| ---------------------------- | --------------------------------------------------------- |
+| Missing or inconsistent data | Perform data cleaning and validation                      |
+| Dashboard performance issues | Optimize calculations and visualizations                  |
+| Incorrect KPI calculations   | Test and verify all calculated fields                     |
+| Delays in project completion | Follow the project schedule and review progress regularly |
+
+Conclusion
+A well-structured project plan ensures the successful development of the Food Ordering Behaviour and Consumer Trends Dashboard. By following each phase systematically, the project delivers accurate visual analytics that help businesses understand customer behaviour, monitor performance, and make data-driven decisions.

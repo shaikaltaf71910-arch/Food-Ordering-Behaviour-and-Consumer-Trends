@@ -1,0 +1,38 @@
+Technology Stack
+
+Data Source:
+* Food Ordering Behaviour Dataset (CSV/Excel)
+
+Data Visualization Tool:
+* Tableau Desktop
+
+Data Preparation:
+* Microsoft Excel
+
+Dashboard Components:
+* KPI Cards
+* Bar Charts
+* Pie Charts
+* Line Charts
+* Donut Charts
+* Filters
+* Highlight Actions
+* Dashboard Containers
+* Tableau Story
+
+Operating System:
+* Windows 10/11
+
+Hardware Requirements:
+* Minimum 4 GB RAM
+* Intel Core i3 Processor or above
+* 2 GB Free Disk Space
+
+Software Requirements:
+* Tableau Desktop
+* Microsoft Excel
+* PDF Reader
+* Web Browser
+
+Outcome:
+The selected technology stack provides a simple, efficient, and interactive environment for analyzing food ordering behaviour and presenting business insights through dashboards and stories.

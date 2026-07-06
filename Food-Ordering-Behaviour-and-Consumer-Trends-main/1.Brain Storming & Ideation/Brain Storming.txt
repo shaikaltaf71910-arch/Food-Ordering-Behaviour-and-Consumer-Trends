@@ -1,0 +1,22 @@
+Title: Brainstorming
+
+Project Name:
+Food Ordering Behaviour and Consumer Trends Dashboard
+
+Objective:
+To analyze customer food ordering patterns and identify key business insights using Tableau dashboards and stories.
+
+Brainstorming Ideas:
+• Analyze total number of food orders.
+• Identify the most popular meal types.
+• Compare online and offline payment methods.
+• Analyze customer ratings and satisfaction.
+• Study order values across different customer segments.
+• Identify peak ordering hours and busy days.
+• Compare delivery performance across locations.
+• Analyze the impact of discounts on customer purchases.
+• Identify high-value customers and ordering frequency.
+• Create interactive dashboards with filters and KPIs.
+
+Expected Outcome:
+The dashboard will help businesses understand customer behavior, improve service quality, increase customer satisfaction, and make data-driven decisions to improve revenue.
