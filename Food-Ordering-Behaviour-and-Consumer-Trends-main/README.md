@@ -148,7 +148,7 @@ Add screenshots of:
 
 ## 👨‍💻 Author
 
-**Lakshmi Narasmiha**
+**Shaik Althaf**
 
 B.Tech (CSE - Artificial Intelligence & Machine Learning)
 
